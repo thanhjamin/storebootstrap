@@ -8,7 +8,7 @@
 By [Thanh Huynh]().
 
 ## Description
-** Store - Bootstrap is a very basic app using bootstrap for styling. Introductory lesson about bootstrap on Rails Cast #328.
+Store - Bootstrap is a very basic app using bootstrap for styling. Introductory lesson about bootstrap on Rails Cast #328.
 
 ## Installation
 
