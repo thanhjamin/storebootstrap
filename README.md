@@ -1,13 +1,27 @@
-Store - Bootstrap
-By Thanh Huynh
+# Store - Bootstrap
+<!-- If you'd like to use a logo instead uncomment this code and remove the text above this line
 
-Description
-A very basic app using bootstrap for styling. Introductory lesson about bootstrap on Rails Cast #328.
+  ![Logo](URL to logo img file goes here)
 
-Installation
+-->
+
+By [Thanh Huynh]().
+
+## Description
+** Store - Bootstrap is a very basic app using bootstrap for styling. Introductory lesson about bootstrap on Rails Cast #328.
+
+## Installation
+
 Visit http://railscasts.com/episodes/328-twitter-bootstrap-basics for more information
 
-Usage
+## Usage
+
 An example of the utilization of bootstrap
 
-Screenshot
+
+## Information
+
+Screenshots below:
+
+![Screenshot 1](https://github.com/thanhjamin/storebootstrap/blob/master/public/bootstrap.png?raw=true)
+
